@@ -1,0 +1,19 @@
+body{
+    color: green;
+    background-color: white;
+
+}
+a:hover{
+    color:red;
+
+}
+a{
+    color:grey;
+    text-decoration: none;
+    text-underline-position: none;
+    
+}
+
+header img{
+    width:2%;
+}
